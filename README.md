@@ -1,7 +1,7 @@
-# videostreamingsubscriptions
+# Video Streaming Subscriptions
 Subscription records for MavenFlix, a fictitious video streaming platform. 
 
-#PowerBI Dashboard Link
+# PowerBI Dashboard Link
 https://app.powerbi.com/view?r=eyJrIjoiZDQ2ZDFmYzEtZjY5MS00YzBiLTg1OGQtY2VlMzljYjdiZjBkIiwidCI6ImQ5OTU0NjhkLWExNmQtNDNhYi04ZWFjLTQzNzExYTdhMWU2NyJ9
 
 I came across this dataset on video streaming subscriptions provided by Maven and decided to conduct an analysis using Power BI. The dashboard was crafted to facilitate easy navigation through the data. To delve deeper, I incorporated slicers enabling sorting by dates and checking payment status.
